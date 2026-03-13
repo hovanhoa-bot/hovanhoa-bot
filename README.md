@@ -1,3 +1,3 @@
 # hovanhoa-bot 🤖
 
-Automation bot for the **hovanhoa** GitHub account.
+automation bot for the @hovanhoa.
